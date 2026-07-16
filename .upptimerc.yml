@@ -2,6 +2,9 @@ owner: obrienafc
 repo: status
 
 sites:
+  - name: CDN
+    url: https://cdn.patrickob.tech
+    icon: https://cdn.patrickob.tech/images/icons/content-delivery-network.png
   - name: Open WebUI
     url: https://chat.patrickob.tech
   - name: DomainsLocker
@@ -18,25 +21,25 @@ sites:
     check: "tcp-ping"
     url: imap.purelymail.com
     port: 993
-    icon: https://status.patrickob.tech/purelymail.svg
+    icon: https://cdn.patrickob.tech/images/icons/purelymail.svg
   - name: Purelymail SMTP
     check: "tcp-ping"
     url: smtp.purelymail.com
     port: 465
-    icon: https://status.patrickob.tech/purelymail.svg
+    icon: https://cdn.patrickob.tech/images/icons/purelymail.svg
   - name: Purelymail POP3
     check: "tcp-ping"
     url: pop3.purelymail.com
     port: 995
-    icon: https://status.patrickob.tech/purelymail.svg
+    icon: https://cdn.patrickob.tech/images/icons/purelymail.svg
 
 status-website:
   cname: status.patrickob.tech
-  logoUrl: https://raw.githubusercontent.com/obrienafc/status/master/assets/status.png
-  themeUrl: https://status.patrickob.tech/custom.css
+  logoUrl: https://cdn.patrickob.tech/images/icons/status.png
+  themeUrl: https://cdn.patrickob.tech/sites/status/css/custom.css
   name: Status Page
   introTitle: "Status page for self hosted services."
-  favicon: https://raw.githubusercontent.com/obrienafc/status/master/assets/status.png
+  favicon: https://cdn.patrickob.tech/images/icons/status.png
   navbar:
     - title: Status
       href: /
