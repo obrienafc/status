@@ -30,6 +30,7 @@ sites:
 status-website:
   cname: status.patrickob.tech
   logoUrl: https://raw.githubusercontent.com/obrienafc/status/master/assets/status.png
+  themeUrl: https://raw.githubusercontent.com/obrienafc/status/master/assets/custom.css
   name: Status Page
   introTitle: "Status page for self hosted services."
   favicon: https://raw.githubusercontent.com/obrienafc/status/master/assets/status.png
