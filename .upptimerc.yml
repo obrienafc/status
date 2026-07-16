@@ -17,6 +17,8 @@ sites:
     url: https://csphonetic.patrickob.me
   - name: PLI SC Validator
     url: https://pligamevalidator.patrickob.me
+  - name: Docmost
+    url: https://notes.patrickob.tech
   - name: Purelymail IMAP
     check: "tcp-ping"
     url: imap.purelymail.com
