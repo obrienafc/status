@@ -32,7 +32,6 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.patrickob.tech
-  themeUrl: https://raw.githubusercontent.com/obrienafc/status/master/assets/main.css
   logoUrl: https://raw.githubusercontent.com/obrienafc/status/master/assets/status.png
   name: Status Page
   introTitle: "Status page for self hosted services."
