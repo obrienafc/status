@@ -32,9 +32,10 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.patrickob.tech
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/obrienafc/status/master/assets/status.png
+  name: Status Page
   introTitle: "Status page for self hosted services."
+  favicon: https://raw.githubusercontent.com/obrienafc/status/master/assets/status.png
   navbar:
     - title: Status
       href: /
