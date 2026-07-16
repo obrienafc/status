@@ -1,7 +1,6 @@
-owner: obrienafc # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: obrienafc
+repo: status
 
-sites:
   - name: Open WebUI
     url: https://chat.patrickob.tech
   - name: DomainsLocker
@@ -18,15 +17,18 @@ sites:
     check: "tcp-ping"
     url: imap.purelymail.com
     port: 993
+    icon: https://status.patrickob.tech/purelymail.svg
   - name: Purelymail SMTP
     check: "tcp-ping"
     url: smtp.purelymail.com
     port: 465
+    icon: https://status.patrickob.tech/purelymail.svg
   - name: Purelymail POP3
     check: "tcp-ping"
     url: pop3.purelymail.com
     port: 995
-    
+    icon: https://status.patrickob.tech/purelymail.svg
+
 status-website:
   cname: status.patrickob.tech
   logoUrl: https://raw.githubusercontent.com/obrienafc/status/master/assets/status.png
