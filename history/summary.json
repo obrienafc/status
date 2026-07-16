@@ -4,19 +4,19 @@
     "url": "https://cdn.patrickob.tech",
     "icon": "https://cdn.patrickob.tech/images/icons/content-delivery-network.png",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "49.46%",
-    "uptimeDay": "49.46%",
-    "uptimeWeek": "49.46%",
-    "uptimeMonth": "49.46%",
-    "uptimeYear": "49.46%",
-    "time": 176,
-    "timeDay": 176,
-    "timeWeek": 176,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "status": "up",
+    "uptime": "95.05%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "95.05%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "95.05%",
+    "time": 250,
+    "timeDay": 250,
+    "timeWeek": 250,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {
-      "2026-07-16": 0
+      "2026-07-16": 4
     }
   },
   {
