@@ -1,6 +1,7 @@
 owner: obrienafc
 repo: status
 
+sites:
   - name: Open WebUI
     url: https://chat.patrickob.tech
   - name: DomainsLocker
