@@ -22,18 +22,20 @@
     "url": "https://chat.patrickob.tech",
     "icon": "https://icons.duckduckgo.com/ip3/chat.patrickob.tech.ico",
     "slug": "open-web-ui",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 582,
-    "timeDay": 476,
-    "timeWeek": 548,
-    "timeMonth": 582,
-    "timeYear": 582,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1062,
+    "timeDay": 9898,
+    "timeWeek": 2894,
+    "timeMonth": 1062,
+    "timeYear": 1062,
+    "dailyMinutesDown": {
+      "2026-08-08": 6
+    }
   },
   {
     "name": "DomainsLocker",
@@ -78,10 +80,10 @@
     "url": "https://notes.patrickob.me",
     "icon": "https://icons.duckduckgo.com/ip3/notes.patrickob.me.ico",
     "slug": "memos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 454,
@@ -89,7 +91,9 @@
     "timeWeek": 456,
     "timeMonth": 454,
     "timeYear": 454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-08": 1
+    }
   },
   {
     "name": "CS Phonetic",
@@ -132,18 +136,20 @@
     "url": "https://notes.patrickob.tech",
     "icon": "https://icons.duckduckgo.com/ip3/notes.patrickob.tech.ico",
     "slug": "docmost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 363,
-    "timeWeek": 482,
-    "timeMonth": 472,
-    "timeYear": 472,
-    "dailyMinutesDown": {}
+    "time": 1269,
+    "timeDay": 9985,
+    "timeWeek": 2873,
+    "timeMonth": 1269,
+    "timeYear": 1269,
+    "dailyMinutesDown": {
+      "2026-08-08": 0
+    }
   },
   {
     "name": "Purelymail IMAP",
